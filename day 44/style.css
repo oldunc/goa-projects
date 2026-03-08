@@ -1,0 +1,20 @@
+a:link{
+    color: brown;
+    background-color: darkseagreen;
+}
+a:hover{
+    font-family: fantasy;
+    color: chocolate;
+}
+a:visited {
+  color: purple;
+  font-size: xx-large;
+}
+a:hover {
+  color: red;
+  text-decoration: none;
+  }
+a:active {
+  color: green;
+  background-color: antiquewhite;
+}

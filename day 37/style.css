@@ -1,0 +1,59 @@
+/*
+ID selector:
+1. გამოიყენება მხოლოდ 1 ელემენტისთვის.
+2. ერთ გვერდზე ერთი და იგივე id არ უნდა განმეორდეს.
+3. CSS-ში იწერება # ნიშნით.
+4. უფრო ძლიერი პრიორიტეტი აქვს.
+
+Class selector: გამოიყენება ბევრ ელემენტზე. შეიძლება ბევრ ელემენტს ჰქონდეს ერთი class. CSS-ში იწერება. გამოიყენება როცა ერთნაირად გვინდა სტილი.
+*/
+
+button{
+  color: white;
+  background-color: black;
+}
+.same{
+  color: yellow;
+  background-color: blue;
+}
+#unique{
+  color: white;
+  background-color: red;
+}
+.title{
+  color: green;
+  text-align: center;
+}
+
+.text{
+  color: gray;
+}
+
+.btn{
+  background-color: purple;
+  color: white;
+}
+
+#box{
+  background-color: lightblue;
+  
+}
+#main{
+  color: darkgreen;
+  text-align: center;
+}
+
+.info{
+  color: black;
+}
+
+.action{
+  background-color: orange;
+  color: white;
+}
+
+.card{
+  background-color: lightgray;
+ 
+}
+

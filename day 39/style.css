@@ -1,0 +1,31 @@
+p{
+    color: blue;
+}
+.hello{
+    color: rgb(0, 255, 255);
+    background-color: beige;
+}
+#a {
+    color: #ff5733;
+    background-color: #1f1f1f;
+}
+
+#b {
+    color: #33ff57;
+    background-color: #220033;
+}
+
+#c {
+    color: #3357ff;
+    background-color: #ffeecc;
+}
+
+#d {
+    color: #ff33a8;
+    background-color: #003333;
+}
+
+#e {
+    color: #ffa533;
+    background-color: #e6f2ff;
+}
